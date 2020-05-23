@@ -131,7 +131,7 @@ var UIController = (function () {
         int = numSplit[0];
         dec = numSplit[1];
         if (int.length > 3)
-            int = int.subStr(0, int.length - 3) + ',' + int.subStr(int.length - 3, 3);
+            int = int.substr(0, int.length - 3) + ',' + int.substr(int.length - 3, 3);
         return (type === 'inc' ? '+' : '-') + ' ' + int + '.' + dec;
     };
     var nodeListForEach = function (list, callback) {
