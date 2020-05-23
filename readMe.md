@@ -1,4 +1,4 @@
-#Budgety JavaScript App :moneybag:
+# Budgety JavaScript App :moneybag:
 
 Budgety is a JavaScript project which I have done during the course The Complete JavaScript Course 2019: Build Real Projects! by Jonas Schmedtmann on Udemy. 
 
